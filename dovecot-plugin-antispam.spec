@@ -1,6 +1,6 @@
 Name:		dovecot-plugin-antispam
 Version:	51
-Release:	1
+Release:	2
 Summary:	Spam filter teaching plugin for the Dovecot IMAP server
 Group:		System/Servers
 
