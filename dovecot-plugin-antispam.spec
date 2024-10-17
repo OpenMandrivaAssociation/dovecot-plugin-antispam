@@ -7,7 +7,7 @@ Group:		System/Servers
 # BSD License (two clause)
 # http://www.freebsd.org/copyright/freebsd-license.html
 License:	BSD-2-Clause
-URL:		http://wiki2.dovecot.org/Plugins/Antispam
+URL:		https://wiki2.dovecot.org/Plugins/Antispam
 BuildRequires:  dovecot-devel
 BuildRequires:  autoconf automake
 Requires:	rspamd dovecot
